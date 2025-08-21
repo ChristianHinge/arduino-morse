@@ -1,5 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,c,c++
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,c,c++
+data/
 
 ### C ###
 # Prerequisites
@@ -265,3 +266,4 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,c,c++
+
